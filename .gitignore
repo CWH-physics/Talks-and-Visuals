@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Manim render output
+media/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
